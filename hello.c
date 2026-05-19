@@ -2,5 +2,7 @@
 
 int main() {
     printf("Hello, C言語のWorld!\n");
-    return 0;
+
+    /* バグ対応していく*/
+    return 1;
 }
